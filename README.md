@@ -87,7 +87,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
       - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     <hr />
-10. [02/03/26, *the*] Ricorsione
+10. [03/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slide: [HTML](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
@@ -129,7 +129,7 @@ TBC
   <tr><td>23/02/26</td><td>09:00-11:00</td><td>Algoritmi di forza bruta</td></tr>
   <tr><td>24/02/26</td><td>09:00-11:00</td><td>Laboratorio: costrutti base</td></tr>
   <tr><td>25/02/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: strutture non ordinate</td></tr>
-  <tr><td>02/03/26</td><td>09:00-11:00</td><td>Ricorsione</td></tr>
+  <tr><td>03/03/26</td><td>09:00-11:00</td><td>Ricorsione</td></tr>
   <tr><td>04/03/26</td><td>09:00-11:00</td><td>Laboratorio: utilizzare liste e tuple</td></tr>
   <tr><td>09/03/26</td><td>09:00-11:00</td><td>Algoritmi divide et impera</td></tr>
   <tr><td>10/03/26</td><td>09:00-11:00</td><td>Laboratorio: utilizzare insiemi e dizionari</td></tr>
