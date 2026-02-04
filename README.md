@@ -64,7 +64,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
      - Capitolo "How To Use List Methods": paragrafi iniziali e le sezioni "list.append()", "list.extend()", "list.remove()"
    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
    <hr />
-7. [23/02/26, *teo*] Algoritmi di forza bruta
+7. [24/02/26, *teo*] Algoritmi di forza bruta
    - capitolo del libro: [HTML](https://thinkcompute.github.io/06-brute-force.html)
    - slide: [HTML](https://thinkcompute.github.io/06-slides-brute-force.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
@@ -75,10 +75,10 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
      - Capitolo "How To Use List Methods": sezione "list.insert()"
    - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
    <hr />
-8. [24/02/26, *lab*] Laboratorio: costrutti base
+8. [25/02/26, *lab*] Laboratorio: costrutti base
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-02.html)
    <hr />
-9. [25/02/26, *teo*] Organizzare l'informazione: strutture non ordinate
+9. [03/02/26, *teo*] Organizzare l'informazione: strutture non ordinate
     - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
     - slide: [HTML](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
@@ -87,29 +87,29 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
       - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     <hr />
-10. [03/03/26, *the*] Ricorsione
+10. [04/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slide: [HTML](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     <hr />
-11. [04/03/26, *lab*] Laboratorio: utilizzare liste e tuple
+11. [09/03/26, *lab*] Laboratorio: utilizzare le liste
     - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-03.html)
     <hr />
-12. [09/03/26, *teo*] Algoritmi divide et impera
+12. [10/03/26, *teo*] Algoritmi divide et impera
     - capitolo del libro: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
     - slide: [HTML](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     <hr />
-13. [10/03/26, *lab*] Laboratorio: utilizzare insiemi e dizionari
+13. [11/03/26, *lab*] Laboratorio: utilizzare insiemi e dizionari
     - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-04.html)
     <hr />
-14. [11/03/26, *teo*] Organizzare l'informazione: alberi e grafi
+14. [16/03/26, *teo*] Organizzare l'informazione: alberi e grafi
     - capitoli del libro: [HTML](https://thinkcompute.github.io/11-trees.html) e [HTML](https://thinkcompute.github.io/13-graphs.html)
-    - slide: [HTML](https://thinkcompute.github.io/11-slides-trees.html)
-    - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py)
+    - slide: [HTML](https://thinkcompute.github.io/11-slides-trees.html) e [HTML](https://thinkcompute.github.io/13-slides-graphs.html)
+    - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py), [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     <hr />
-15. [16/03/26, *lab*] Laboratorio: leggere e processare file CSV e JSON
-    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-05.html)
+15. [17/03/26, *lab*] Laboratorio: leggere e processare file CSV e JSON
+    - capitolo del libro: [HTML](https://thinkcompute.github.io/15-what-is-a-datum.html)
     <hr />
 
 
@@ -122,19 +122,19 @@ TBC
 <table>
   <tr><td>09/02/26</td><td>09:00-11:00</td><td>Introduzione al corso</td></tr>
   <tr><td>10/02/26</td><td>09:00-11:00</td><td>Introduzione al pensiero computazionale</td></tr>
-  <tr><td>11/02/26</td><td>09:00-11:00</td><td>Algoritmi</td></tr>
+  <tr><td>11/02/26</td><td>11:00-13:00</td><td>Algoritmi</td></tr>
   <tr><td>16/02/26</td><td>09:00-11:00</td><td>Laboratorio: installazione di Python</td></tr>
   <tr><td>17/02/26</td><td>09:00-11:00</td><td>Linguaggi di programmazione</td></tr>
-  <tr><td>18/02/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: strutture ordinate</td></tr>
-  <tr><td>23/02/26</td><td>09:00-11:00</td><td>Algoritmi di forza bruta</td></tr>
-  <tr><td>24/02/26</td><td>09:00-11:00</td><td>Laboratorio: costrutti base</td></tr>
-  <tr><td>25/02/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: strutture non ordinate</td></tr>
-  <tr><td>03/03/26</td><td>09:00-11:00</td><td>Ricorsione</td></tr>
-  <tr><td>04/03/26</td><td>09:00-11:00</td><td>Laboratorio: utilizzare liste e tuple</td></tr>
-  <tr><td>09/03/26</td><td>09:00-11:00</td><td>Algoritmi divide et impera</td></tr>
-  <tr><td>10/03/26</td><td>09:00-11:00</td><td>Laboratorio: utilizzare insiemi e dizionari</td></tr>
-  <tr><td>11/03/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: alberi e grafi</td></tr>
-  <tr><td>16/03/26</td><td>09:00-11:00</td><td>Laboratorio: leggere e processare file CSV e JSON</td></tr>
+  <tr><td>18/02/26</td><td>11:00-13:00</td><td>Organizzare l'informazione: strutture ordinate</td></tr>
+  <tr><td>24/02/26</td><td>09:00-11:00</td><td>Algoritmi di forza bruta</td></tr>
+  <tr><td>25/02/26</td><td>11:00-13:00</td><td>Laboratorio: costrutti base</td></tr>
+  <tr><td>03/02/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: strutture non ordinate</td></tr>
+  <tr><td>04/03/26</td><td>11:00-13:00</td><td>Ricorsione</td></tr>
+  <tr><td>09/03/26</td><td>09:00-11:00</td><td>Laboratorio: utilizzare liste e tuple</td></tr>
+  <tr><td>10/03/26</td><td>09:00-11:00</td><td>Algoritmi divide et impera</td></tr>
+  <tr><td>11/03/26</td><td>11:00-13:00</td><td>Laboratorio: utilizzare insiemi e dizionari</td></tr>
+  <tr><td>16/03/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: alberi e grafi</td></tr>
+  <tr><td>17/03/26</td><td>09:00-11:00</td><td>Laboratorio: leggere e processare file CSV e JSON</td></tr>
 </table>
 
 
