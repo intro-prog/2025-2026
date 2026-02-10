@@ -30,10 +30,13 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 #### Parte I (Febbraio 2026 - Marzo 2026)
 
 1. [09/02/26, *teo*] Introduzione al corso
+   - slide: [HTML](https://docs.google.com/presentation/d/1TzgUU8L4ecdjk2US1ZRj7alSMYZEzs6wMhfPM6YgvD4/edit?usp=sharing)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ffd8d566-f31e-4d0e-9d3e-b3ec0088410b&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    <hr />
 2. [10/02/26, *teo*] Introduzione al pensiero computazionale
    - capitolo del libro: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
    - slide: [HTML](https://thinkcompute.github.io/01-slides-computational-thinking.html)
+   - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/1), [2](https://github.com/intro-prog/2025-2026/issues/2), [3](https://github.com/intro-prog/2025-2026/issues/3)
    <hr />
 3. [11/02/26, *the*] Algoritmi
    - capitolo del libro: [HTML](https://thinkcompute.github.io/02-algorithms.html)
