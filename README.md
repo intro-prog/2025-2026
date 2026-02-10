@@ -30,24 +30,24 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 #### Parte I (Febbraio 2026 - Marzo 2026)
 
 1. [09/02/26, *teo*] Introduzione al corso
-   - slide: [HTML](https://docs.google.com/presentation/d/1TzgUU8L4ecdjk2US1ZRj7alSMYZEzs6wMhfPM6YgvD4/edit?usp=sharing)
+   - slide: [lezione](https://docs.google.com/presentation/d/1TzgUU8L4ecdjk2US1ZRj7alSMYZEzs6wMhfPM6YgvD4/edit?usp=sharing)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ffd8d566-f31e-4d0e-9d3e-b3ec0088410b&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    <hr />
 2. [10/02/26, *teo*] Introduzione al pensiero computazionale
    - capitolo del libro: [HTML](https://thinkcompute.github.io/01-computational-thinking.html)
-   - slide: [HTML](https://thinkcompute.github.io/01-slides-computational-thinking.html)
+   - slide: [comunicazioni](https://docs.google.com/presentation/d/1CVMl1E-t0H9Ra_LICArg4UNR4ZrNd1Zxb3R6vHsmcs4/edit?usp=sharing), [lezione](https://thinkcompute.github.io/01-slides-computational-thinking.html)
    - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/1), [2](https://github.com/intro-prog/2025-2026/issues/2), [3](https://github.com/intro-prog/2025-2026/issues/3)
    <hr />
 3. [11/02/26, *the*] Algoritmi
    - capitolo del libro: [HTML](https://thinkcompute.github.io/02-algorithms.html)
-   - slide: [HTML](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - slide: [lezione](https://thinkcompute.github.io/02-slides-algorithms.html)
    <hr />
 4. [16/02/26, *lab*] Laboratorio: installazione di Python
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-01.html)
    <hr />
 5. [17/02/26, *teo*] Linguaggi di programmazione
    - capitolo del libro: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
-   - slide: [HTML](https://thinkcompute.github.io/04-slides-programming-languages.html)
+   - slide: [lezione](https://thinkcompute.github.io/04-slides-programming-languages.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "Understanding Data Types": paragrafi iniziali e le sezioni "Background", "Numbers", "Floating-Point Numbers", "Booleans", "Strings"
      - Capitolo "How To Use Variables": paragrafi iniziali e le sezioni "Understadning Variables", "Naming Variables: Rules and Style", "Reassigning Variables", "Multiple Assignment"
@@ -58,7 +58,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 6. [18/02/26, *teo*] Organizzare l'informazione: strutture ordinate
    - capitolo del libro: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
-   - slide: [HTML](https://thinkcompute.github.io/05-slides-ordered-structures.html)
+   - slide: [lezione](https://thinkcompute.github.io/05-slides-ordered-structures.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "How To Write Comments": tutto il contenuto
      - Capitolo "How To Import Modules": tutto il contenuto
@@ -69,7 +69,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 7. [24/02/26, *teo*] Algoritmi di forza bruta
    - capitolo del libro: [HTML](https://thinkcompute.github.io/06-brute-force.html)
-   - slide: [HTML](https://thinkcompute.github.io/06-slides-brute-force.html)
+   - slide: [lezione](https://thinkcompute.github.io/06-slides-brute-force.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "How To Construct While Loops": tutto il contenuto
      - Capitolo "How To Construct For Loops": tutto il contenuto
@@ -83,7 +83,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 9. [03/02/26, *teo*] Organizzare l'informazione: strutture non ordinate
     - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
-    - slide: [HTML](https://thinkcompute.github.io/07-slides-unordered-structures.html)
+    - slide: [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Capitolo "Understanding Data Types": sezione "Dictionaries"
       - Capitolo "Understanding Dictionaries": tutto il contenuto
@@ -92,7 +92,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     <hr />
 10. [04/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
-    - slide: [HTML](https://thinkcompute.github.io/08-slides-recursion.html)
+    - slide: [lezione](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     <hr />
 11. [09/03/26, *lab*] Laboratorio: utilizzare le liste
@@ -100,7 +100,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     <hr />
 12. [10/03/26, *teo*] Algoritmi divide et impera
     - capitolo del libro: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
-    - slide: [HTML](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
+    - slide: [lezione](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     <hr />
 13. [11/03/26, *lab*] Laboratorio: utilizzare insiemi e dizionari
@@ -108,7 +108,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     <hr />
 14. [16/03/26, *teo*] Organizzare l'informazione: alberi e grafi
     - capitoli del libro: [HTML](https://thinkcompute.github.io/11-trees.html) e [HTML](https://thinkcompute.github.io/13-graphs.html)
-    - slide: [HTML](https://thinkcompute.github.io/11-slides-trees.html) e [HTML](https://thinkcompute.github.io/13-slides-graphs.html)
+    - slide: [lezione](https://thinkcompute.github.io/11-slides-trees.html) e [HTML](https://thinkcompute.github.io/13-slides-graphs.html)
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py), [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     <hr />
 15. [17/03/26, *lab*] Laboratorio: leggere e processare file CSV e JSON
