@@ -49,6 +49,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 4. [16/02/26, *lab*] Laboratorio: installazione di Python
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-01.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c608e40c-51d9-441b-baff-b3f300889489&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    <hr />
 5. [17/02/26, *teo*] Linguaggi di programmazione
    - capitolo del libro: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
