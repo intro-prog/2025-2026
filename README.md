@@ -38,11 +38,14 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    - slide: [comunicazioni](https://docs.google.com/presentation/d/1CVMl1E-t0H9Ra_LICArg4UNR4ZrNd1Zxb3R6vHsmcs4/edit?usp=sharing), [lezione](https://thinkcompute.github.io/01-slides-computational-thinking.html)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4cb1b245-7cc6-40f4-910b-b3ed00880e49&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/1), [2](https://github.com/intro-prog/2025-2026/issues/2), [3](https://github.com/intro-prog/2025-2026/issues/3)
+   - soluzioni: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-1), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-2), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-3)
    <hr />
 3. [11/02/26, *teo*] Algoritmi
    - capitolo del libro: [HTML](https://thinkcompute.github.io/02-algorithms.html)
    - slide: [comunicazioni](https://docs.google.com/presentation/d/1XIwAqchyLCQKg4Dy0G7RJPf4Z1PCTOilArxuxtn_kjE/edit?usp=sharing), [lezione](https://thinkcompute.github.io/02-slides-algorithms.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4e70d3ee-8b79-499d-b7bb-b3ee00a6e59a&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/4), [2](https://github.com/intro-prog/2025-2026/issues/5), [3](https://github.com/intro-prog/2025-2026/issues/6)
+   - soluzioni: [1](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-4), [2](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-5), [3](https://thinkcompute.github.io/part-1-exercises.html#part-1-ex-6)
    <hr />
 4. [16/02/26, *lab*] Laboratorio: installazione di Python
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-01.html)
