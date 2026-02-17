@@ -53,7 +53,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 5. [17/02/26, *teo*] Linguaggi di programmazione
    - capitolo del libro: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
-   - slide: [lezione](https://thinkcompute.github.io/04-slides-programming-languages.html)
+   - slide: [comunicazioni](https://docs.google.com/presentation/d/1F_Ixa26mRr5SNTBysqDo4HaYCbMQRD7vZuXyuHKcx9c/edit?usp=sharing), [lezione](https://thinkcompute.github.io/04-slides-programming-languages.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "Understanding Data Types": paragrafi iniziali e le sezioni "Background", "Numbers", "Floating-Point Numbers", "Booleans", "Strings"
      - Capitolo "How To Use Variables": paragrafi iniziali e le sezioni "Understadning Variables", "Naming Variables: Rules and Style", "Reassigning Variables", "Multiple Assignment"
