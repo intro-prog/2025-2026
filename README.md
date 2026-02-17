@@ -54,6 +54,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 5. [17/02/26, *teo*] Linguaggi di programmazione
    - capitolo del libro: [HTML](https://thinkcompute.github.io/04-programming-languages.html)
    - slide: [comunicazioni](https://docs.google.com/presentation/d/1F_Ixa26mRr5SNTBysqDo4HaYCbMQRD7vZuXyuHKcx9c/edit?usp=sharing), [lezione](https://thinkcompute.github.io/04-slides-programming-languages.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ce67be52-98bb-4fd4-a4ec-b3f40088e24a&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "Understanding Data Types": paragrafi iniziali e le sezioni "Background", "Numbers", "Floating-Point Numbers", "Booleans", "Strings"
      - Capitolo "How To Use Variables": paragrafi iniziali e le sezioni "Understadning Variables", "Naming Variables: Rules and Style", "Reassigning Variables", "Multiple Assignment"
@@ -61,6 +62,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
      - Capitolo "How To Write Conditional Statements": tutto il contenuto
      - Capitolo "How To Define Functions": paragrafi iniziali e le sezioni "Defining a Function", "Working with Parameters", "Returning a Value"
    - Python: [first_algorithm_empty.py](https://thinkcompute.github.io/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://thinkcompute.github.io/first_algorithm_no_assignments.py), [first_algorithm.py](https://thinkcompute.github.io/first_algorithm.py)
+   - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/7), [2](https://github.com/intro-prog/2025-2026/issues/8), [3](https://github.com/intro-prog/2025-2026/issues/9), [4](https://github.com/intro-prog/2025-2026/issues/10), [5](https://github.com/intro-prog/2025-2026/issues/11), [6](https://github.com/intro-prog/2025-2026/issues/12), [7](https://github.com/intro-prog/2025-2026/issues/13), [8](https://github.com/intro-prog/2025-2026/issues/14), [9](https://github.com/intro-prog/2025-2026/issues/15), [10](https://github.com/intro-prog/2025-2026/issues/16)
    <hr />
 6. [18/02/26, *teo*] Organizzare l'informazione: strutture ordinate
    - capitolo del libro: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
