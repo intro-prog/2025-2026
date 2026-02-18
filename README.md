@@ -66,7 +66,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 6. [18/02/26, *teo*] Organizzare l'informazione: strutture ordinate
    - capitolo del libro: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
-   - slide: [lezione](https://thinkcompute.github.io/05-slides-ordered-structures.html)
+   - slide: [comunicazioni](https://docs.google.com/presentation/d/1rfHF00jbu5-inmAGMmezsl_sWyKfahi52Tz-j97-_bI/edit?usp=sharing), [lezione](https://thinkcompute.github.io/05-slides-ordered-structures.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "How To Write Comments": tutto il contenuto
      - Capitolo "How To Import Modules": tutto il contenuto
@@ -74,6 +74,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
      - Capitolo "Understanding Lists": introductory paragraphs and section "Indexing Lists"
      - Capitolo "How To Use List Methods": paragrafi iniziali e le sezioni "list.append()", "list.extend()", "list.remove()"
    - Python: [define_functions.py](https://thinkcompute.github.io/define_functions.py), [list_instructions.py](https://thinkcompute.github.io/list_instructions.py), [stack_instructions.py](https://thinkcompute.github.io/stack_instructions.py), [queue_instructions.py](https://thinkcompute.github.io/queue_instructions.py)
+   - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/17), [2](https://github.com/intro-prog/2025-2026/issues/18), [3](https://github.com/intro-prog/2025-2026/issues/19), [4](https://github.com/intro-prog/2025-2026/issues/20), [5](https://github.com/intro-prog/2025-2026/issues/21)
    <hr />
 7. [24/02/26, *teo*] Algoritmi di forza bruta
    - capitolo del libro: [HTML](https://thinkcompute.github.io/06-brute-force.html)
