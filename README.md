@@ -90,7 +90,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 8. [25/02/26, *lab*] Laboratorio: costrutti base
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-02.html)
    <hr />
-9. [03/02/26, *teo*] Organizzare l'informazione: strutture non ordinate
+9. [03/03/26, *teo*] Organizzare l'informazione: strutture non ordinate
     - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
     - slide: [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
@@ -140,7 +140,7 @@ TBC
   <tr><td>18/02/26</td><td>11:00-13:00</td><td>Organizzare l'informazione: strutture ordinate</td></tr>
   <tr><td>24/02/26</td><td>09:00-11:00</td><td>Algoritmi di forza bruta</td></tr>
   <tr><td>25/02/26</td><td>11:00-13:00</td><td>Laboratorio: costrutti base</td></tr>
-  <tr><td>03/02/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: strutture non ordinate</td></tr>
+  <tr><td>03/03/26</td><td>09:00-11:00</td><td>Organizzare l'informazione: strutture non ordinate</td></tr>
   <tr><td>04/03/26</td><td>11:00-13:00</td><td>Ricorsione</td></tr>
   <tr><td>09/03/26</td><td>09:00-11:00</td><td>Laboratorio: utilizzare liste e tuple</td></tr>
   <tr><td>10/03/26</td><td>09:00-11:00</td><td>Algoritmi divide et impera</td></tr>
