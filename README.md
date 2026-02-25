@@ -80,7 +80,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 7. [25/02/26, *teo*] Algoritmi di forza bruta
    - capitolo del libro: [HTML](https://thinkcompute.github.io/06-brute-force.html)
-   - slide: [lezione](https://thinkcompute.github.io/06-slides-brute-force.html)
+   - slide: [comunicazioni](https://docs.google.com/presentation/d/1rwviepTts6UbGMhGDmUCDnQpIl2n3n5eZaj5P8MEXNA/edit?usp=sharing), [lezione](https://thinkcompute.github.io/06-slides-brute-force.html)
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "How To Construct While Loops": tutto il contenuto
      - Capitolo "How To Construct For Loops": tutto il contenuto
@@ -88,6 +88,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
      - Capitolo "Understanding Lists": sezione "Constructing a List with List Items"
      - Capitolo "How To Use List Methods": sezione "list.insert()"
    - Python: [stack_from_list.py](https://thinkcompute.github.io/stack_from_list.py), [run_forever.py](https://thinkcompute.github.io/run_forever.py), [linear_search.py](https://thinkcompute.github.io/linear_search.py), [insertion_sort.py](https://thinkcompute.github.io/insertion_sort.py)
+   - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/22), [2](https://github.com/intro-prog/2025-2026/issues/23), [3](https://github.com/intro-prog/2025-2026/issues/24), [4](https://github.com/intro-prog/2025-2026/issues/25), [5](https://github.com/intro-prog/2025-2026/issues/26), [6](https://github.com/intro-prog/2025-2026/issues/27), [7](https://github.com/intro-prog/2025-2026/issues/28), [8](https://github.com/intro-prog/2025-2026/issues/29), [9](https://github.com/intro-prog/2025-2026/issues/30), [10](https://github.com/intro-prog/2025-2026/issues/31), [11](https://github.com/intro-prog/2025-2026/issues/32), [12](https://github.com/intro-prog/2025-2026/issues/33)
    <hr />
 8. [03/03/26, *lab*] Laboratorio: costrutti base
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-02.html)
