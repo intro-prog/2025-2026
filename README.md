@@ -68,6 +68,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 6. [18/02/26, *teo*] Organizzare l'informazione: strutture ordinate
    - capitolo del libro: [HTML](https://thinkcompute.github.io/05-ordered-structures.html)
    - slide: [comunicazioni](https://docs.google.com/presentation/d/1rfHF00jbu5-inmAGMmezsl_sWyKfahi52Tz-j97-_bI/edit?usp=sharing), [lezione](https://thinkcompute.github.io/05-slides-ordered-structures.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=95dc9fe1-3ed3-41c8-868f-b3fc00c74219&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "How To Write Comments": tutto il contenuto
      - Capitolo "How To Import Modules": tutto il contenuto
@@ -81,6 +82,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 7. [25/02/26, *teo*] Algoritmi di forza bruta
    - capitolo del libro: [HTML](https://thinkcompute.github.io/06-brute-force.html)
    - slide: [comunicazioni](https://docs.google.com/presentation/d/1rwviepTts6UbGMhGDmUCDnQpIl2n3n5eZaj5P8MEXNA/edit?usp=sharing), [lezione](https://thinkcompute.github.io/06-slides-brute-force.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=25959084-be87-4ba6-81cf-b3fc00a6ca0f&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Capitolo "How To Construct While Loops": tutto il contenuto
      - Capitolo "How To Construct For Loops": tutto il contenuto
