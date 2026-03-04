@@ -98,7 +98,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 9. [04/03/26, *teo*] Organizzare l'informazione: strutture non ordinate
     - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
-    - slide: [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
+    - slide: [comunicazioni](https://docs.google.com/presentation/d/1635jX3ZBbFvyGa_HStfdWwZhNpijwUn4-ogTRQinbAo/edit?usp=sharing), [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
     - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Capitolo "Understanding Data Types": sezione "Dictionaries"
       - Capitolo "Understanding Dictionaries": tutto il contenuto
