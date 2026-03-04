@@ -95,15 +95,18 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    <hr />
 8. [03/03/26, *lab*] Laboratorio: costrutti base
    - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-02.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f515713b-e3c7-4abd-838b-b402008990f0&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    <hr />
 9. [04/03/26, *teo*] Organizzare l'informazione: strutture non ordinate
     - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
     - slide: [comunicazioni](https://docs.google.com/presentation/d/1635jX3ZBbFvyGa_HStfdWwZhNpijwUn4-ogTRQinbAo/edit?usp=sharing), [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9147e312-a143-4d51-a08b-b40300a70ee3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Capitolo "Understanding Data Types": sezione "Dictionaries"
       - Capitolo "Understanding Dictionaries": tutto il contenuto
       - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
+    - esercizi: [1](https://github.com/comp-data/2025-2026/issues/34), [2](https://github.com/comp-data/2025-2026/issues/35), [3](https://github.com/comp-data/2025-2026/issues/36), [4](https://github.com/comp-data/2025-2026/issues/37), [5](https://github.com/comp-data/2025-2026/issues/38), [6](https://github.com/comp-data/2025-2026/issues/39), [7](https://github.com/comp-data/2025-2026/issues/40), [8](https://github.com/comp-data/2025-2026/issues/41), [9](https://github.com/comp-data/2025-2026/issues/42)
     <hr />
 10. [09/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
