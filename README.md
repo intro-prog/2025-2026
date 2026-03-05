@@ -106,7 +106,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
       - Capitolo "Understanding Dictionaries": tutto il contenuto
       - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
-    - esercizi: [1](https://github.com/comp-data/2025-2026/issues/34), [2](https://github.com/comp-data/2025-2026/issues/35), [3](https://github.com/comp-data/2025-2026/issues/36), [4](https://github.com/comp-data/2025-2026/issues/37), [5](https://github.com/comp-data/2025-2026/issues/38), [6](https://github.com/comp-data/2025-2026/issues/39), [7](https://github.com/comp-data/2025-2026/issues/40), [8](https://github.com/comp-data/2025-2026/issues/41), [9](https://github.com/comp-data/2025-2026/issues/42)
+    - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/34), [2](https://github.com/intro-prog/2025-2026/issues/35), [3](https://github.com/intro-prog/2025-2026/issues/36), [4](https://github.com/intro-prog/2025-2026/issues/37), [5](https://github.com/intro-prog/2025-2026/issues/38), [6](https://github.com/intro-prog/2025-2026/issues/39), [7](https://github.com/intro-prog/2025-2026/issues/40), [8](https://github.com/intro-prog/2025-2026/issues/41), [9](https://github.com/intro-prog/2025-2026/issues/42)
     <hr />
 10. [09/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
