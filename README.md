@@ -107,10 +107,11 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
       - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
     - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
     - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/34), [2](https://github.com/intro-prog/2025-2026/issues/35), [3](https://github.com/intro-prog/2025-2026/issues/36), [4](https://github.com/intro-prog/2025-2026/issues/37), [5](https://github.com/intro-prog/2025-2026/issues/38), [6](https://github.com/intro-prog/2025-2026/issues/39), [7](https://github.com/intro-prog/2025-2026/issues/40), [8](https://github.com/intro-prog/2025-2026/issues/41), [9](https://github.com/intro-prog/2025-2026/issues/42)
+    - soluzioni: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-28), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-29), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-30), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-31), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-32), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-33), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-34), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-35), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-36)
     <hr />
 10. [09/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
-    - slide: [lezione](https://thinkcompute.github.io/08-slides-recursion.html)
+    - slide: [comunicazioni](https://docs.google.com/presentation/d/1L2W3_9SMjBblAOxCZD81HOSlH0eQRNYsVL_DrI7njTw/edit?usp=sharing), [lezione](https://thinkcompute.github.io/08-slides-recursion.html)
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     <hr />
 11. [10/03/26, *lab*] Laboratorio: utilizzare le liste
