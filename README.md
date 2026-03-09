@@ -112,7 +112,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 10. [09/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slide: [comunicazioni](https://docs.google.com/presentation/d/1L2W3_9SMjBblAOxCZD81HOSlH0eQRNYsVL_DrI7njTw/edit?usp=sharing), [lezione](https://thinkcompute.github.io/08-slides-recursion.html)
-   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59261b4b-a1c8-44f4-aaa8-b4080088b894&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=59261b4b-a1c8-44f4-aaa8-b4080088b894&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     - Python: [run_forever_recursive.py](https://thinkcompute.github.io/run_forever_recursive.py), [multiplication.py](https://thinkcompute.github.io/multiplication.py)
     - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/43), [2](https://github.com/intro-prog/2025-2026/issues/44), [3](https://github.com/intro-prog/2025-2026/issues/45), [4](https://github.com/intro-prog/2025-2026/issues/46)
     <hr />
