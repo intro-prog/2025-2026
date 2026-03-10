@@ -118,6 +118,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     <hr />
 11. [10/03/26, *lab*] Laboratorio: utilizzare le liste
     - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-03.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=38dc281d-c328-4b7c-98e3-b4090088f3df&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     <hr />
 12. [11/03/26, *teo*] Algoritmi divide et impera
     - capitolo del libro: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
