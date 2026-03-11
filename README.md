@@ -122,7 +122,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     <hr />
 12. [11/03/26, *teo*] Algoritmi divide et impera
     - capitolo del libro: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
-    - slide: [lezione](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
+    - slide: [comunicazioni](https://docs.google.com/presentation/d/1JIFbd4fznLjJq4fGPT0CkxM3cLrRffw93qF85Uq2YQk/edit?usp=sharing), [lezione](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     <hr />
 13. [16/03/26, *lab*] Laboratorio: utilizzare insiemi e dizionari
