@@ -124,6 +124,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     - capitolo del libro: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
     - slide: [comunicazioni](https://docs.google.com/presentation/d/1JIFbd4fznLjJq4fGPT0CkxM3cLrRffw93qF85Uq2YQk/edit?usp=sharing), [lezione](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
+    - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/47), [2](https://github.com/intro-prog/2025-2026/issues/48), [3](https://github.com/intro-prog/2025-2026/issues/49), [4](https://github.com/intro-prog/2025-2026/issues/50), [5](https://github.com/intro-prog/2025-2026/issues/51), [6](https://github.com/intro-prog/2025-2026/issues/52), [7](https://github.com/intro-prog/2025-2026/issues/53)
     <hr />
 13. [16/03/26, *lab*] Laboratorio: utilizzare insiemi e dizionari
     - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-04.html)
