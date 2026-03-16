@@ -123,11 +123,14 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 12. [11/03/26, *teo*] Algoritmi divide et impera
     - capitolo del libro: [HTML](https://thinkcompute.github.io/09-divide-and-conquer.html)
     - slide: [comunicazioni](https://docs.google.com/presentation/d/1JIFbd4fznLjJq4fGPT0CkxM3cLrRffw93qF85Uq2YQk/edit?usp=sharing), [lezione](https://thinkcompute.github.io/09-slides-divide-and-conquer.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e2ec8d54-67e0-49ea-8e22-b40a00a61b25&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     - Python: [immutable_values.py](https://thinkcompute.github.io/immutable_values.py), [mutable_values.py](https://thinkcompute.github.io/mutable_values.py), [immutable_and_mutable_variables.py](https://thinkcompute.github.io/immutable_and_mutable_variables.py), [merge.py](https://thinkcompute.github.io/merge.py), [merge_sort.py](https://thinkcompute.github.io/merge_sort.py)
     - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/47), [2](https://github.com/intro-prog/2025-2026/issues/48), [3](https://github.com/intro-prog/2025-2026/issues/49), [4](https://github.com/intro-prog/2025-2026/issues/50), [5](https://github.com/intro-prog/2025-2026/issues/51), [6](https://github.com/intro-prog/2025-2026/issues/52), [7](https://github.com/intro-prog/2025-2026/issues/53)
+    - soluzioni: [1](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-1), [2](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-2), [3](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-3), [4](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-4), [5](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-5), [6](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-6), [7](https://thinkcompute.github.io/part-4-exercises.html#part-4-ex-7)
     <hr />
 13. [16/03/26, *lab*] Laboratorio: utilizzare insiemi e dizionari
     - capitolo del libro: [HTML](https://thinkcompute.github.io/lab-04.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6d3c24a5-8b5b-466d-acde-b40f0089862e&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     <hr />
 14. [17/03/26, *teo*] Organizzare l'informazione: alberi e grafi
     - capitoli del libro: [HTML](https://thinkcompute.github.io/11-trees.html) e [HTML](https://thinkcompute.github.io/13-graphs.html)
