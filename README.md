@@ -170,3 +170,4 @@ TBC
 ## Link
 
 - [Libro ufficiale del corso](https://thinkcompute.github.io)
+- [Esempio prova scritta](esempio-prova-scritta.pdf)
