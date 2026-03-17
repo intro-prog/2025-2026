@@ -134,7 +134,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     <hr />
 14. [17/03/26, *teo*] Organizzare l'informazione: alberi e grafi
     - capitoli del libro: [HTML](https://thinkcompute.github.io/11-trees.html) e [HTML](https://thinkcompute.github.io/13-graphs.html)
-    - slide: [lezione](https://thinkcompute.github.io/11-slides-trees.html) e [HTML](https://thinkcompute.github.io/13-slides-graphs.html)
+    - slide: [comunicazioni](https://docs.google.com/presentation/d/1i_0sn0gL1z8vByoTCOFtPXGmA_CjTB5LV0UpCk8kZqE/edit?usp=sharing), [lezione (alberi)](https://thinkcompute.github.io/11-slides-trees.html) e [lezione (grafi)](https://thinkcompute.github.io/13-slides-graphs.html)
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py), [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     <hr />
 15. [18/03/26, *lab*] Laboratorio: leggere e processare file CSV e JSON
