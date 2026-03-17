@@ -135,6 +135,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 14. [17/03/26, *teo*] Organizzare l'informazione: alberi e grafi
     - capitoli del libro: [HTML](https://thinkcompute.github.io/11-trees.html) e [HTML](https://thinkcompute.github.io/13-graphs.html)
     - slide: [comunicazioni](https://docs.google.com/presentation/d/1i_0sn0gL1z8vByoTCOFtPXGmA_CjTB5LV0UpCk8kZqE/edit?usp=sharing), [lezione (alberi)](https://thinkcompute.github.io/11-slides-trees.html) e [lezione (grafi)](https://thinkcompute.github.io/13-slides-graphs.html)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=da85d331-3b4b-4277-9e80-b410008911a9&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     - Python: [tree_instructions.py](https://thinkcompute.github.io/tree_instructions.py), [graph_instructions.py](https://thinkcompute.github.io/graph_instructions.py), [multigraph_instructions.py](https://thinkcompute.github.io/multigraph_instructions.py), [graph_attribute_instructions.py](https://thinkcompute.github.io/graph_attribute_instructions.py)
     - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/54), [2](https://github.com/intro-prog/2025-2026/issues/55), [3](https://github.com/intro-prog/2025-2026/issues/56), [4](https://github.com/intro-prog/2025-2026/issues/57), [5](https://github.com/intro-prog/2025-2026/issues/58), [6](https://github.com/intro-prog/2025-2026/issues/59)
     <hr />
