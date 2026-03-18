@@ -142,6 +142,7 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 15. [18/03/26, *lab*] Laboratorio: leggere e processare file CSV e JSON
     - capitolo del libro: [HTML](https://thinkcompute.github.io/15-what-is-a-datum.html)
     - file CSV utilizzati: [01-publications.csv](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/notebook/01-publications.csv) e [01-venues.csv](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/notebook/01-venues.csv)
+    - file JSON utilizzati: [01-publications-venues.json](https://github.com/thinkcompute/thinkcompute.github.io/blob/main/think_and_compute/notebook/01-publications-venues.json)
     <hr />
 
 
