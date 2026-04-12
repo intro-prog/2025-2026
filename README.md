@@ -2,7 +2,6 @@
 
 Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso [Introduzione alla Programmazione](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2025/520931) della [Laurea Magistrale in Dati, metodi e modelli per le scienze linguistiche](https://corsi.unibo.it/magistrale/DatiMetodiModelliScienzeLinguistiche) dell'[Università di Bologna](http://www.unibo.it).
 
-
 ## Anno Accademico 2025/2026
 
 ### Indice
@@ -25,7 +24,6 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 
 - _teo_ = lezione teorica
 - _lab_ = lezione di laboratorio
-
 
 #### Parte I (Febbraio 2026 - Marzo 2026)
 
@@ -98,17 +96,17 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f515713b-e3c7-4abd-838b-b402008990f0&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
    <hr />
 9. [04/03/26, *teo*] Organizzare l'informazione: strutture non ordinate
-    - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
-    - slide: [comunicazioni](https://docs.google.com/presentation/d/1635jX3ZBbFvyGa_HStfdWwZhNpijwUn4-ogTRQinbAo/edit?usp=sharing), [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
+   - capitolo del libro: [HTML](https://thinkcompute.github.io/07-unordered-structures.html)
+   - slide: [comunicazioni](https://docs.google.com/presentation/d/1635jX3ZBbFvyGa_HStfdWwZhNpijwUn4-ogTRQinbAo/edit?usp=sharing), [lezione](https://thinkcompute.github.io/07-slides-unordered-structures.html)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9147e312-a143-4d51-a08b-b40300a70ee3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-    - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
-      - Capitolo "Understanding Data Types": sezione "Dictionaries"
-      - Capitolo "Understanding Dictionaries": tutto il contenuto
-      - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
-    - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
-    - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/34), [2](https://github.com/intro-prog/2025-2026/issues/35), [3](https://github.com/intro-prog/2025-2026/issues/36), [4](https://github.com/intro-prog/2025-2026/issues/37), [5](https://github.com/intro-prog/2025-2026/issues/38), [6](https://github.com/intro-prog/2025-2026/issues/39), [7](https://github.com/intro-prog/2025-2026/issues/40), [8](https://github.com/intro-prog/2025-2026/issues/41), [9](https://github.com/intro-prog/2025-2026/issues/42)
-    - soluzioni: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-28), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-29), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-30), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-31), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-32), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-33), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-34), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-35), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-36)
-    <hr />
+   - da [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
+     - Capitolo "Understanding Data Types": sezione "Dictionaries"
+     - Capitolo "Understanding Dictionaries": tutto il contenuto
+     - Capitolo "How To Construct Classes and Define Objects": tutto il contenuto
+   - Python: [set_instructions.py](https://thinkcompute.github.io/set_instructions.py), [dictionary_instructions.py](https://thinkcompute.github.io/dictionary_instructions.py)
+   - esercizi: [1](https://github.com/intro-prog/2025-2026/issues/34), [2](https://github.com/intro-prog/2025-2026/issues/35), [3](https://github.com/intro-prog/2025-2026/issues/36), [4](https://github.com/intro-prog/2025-2026/issues/37), [5](https://github.com/intro-prog/2025-2026/issues/38), [6](https://github.com/intro-prog/2025-2026/issues/39), [7](https://github.com/intro-prog/2025-2026/issues/40), [8](https://github.com/intro-prog/2025-2026/issues/41), [9](https://github.com/intro-prog/2025-2026/issues/42)
+   - soluzioni: [1](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-28), [2](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-29), [3](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-30), [4](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-31), [5](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-32), [6](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-33), [7](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-34), [8](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-35), [9](https://thinkcompute.github.io/part-2-exercises.html#part-2-ex-36)
+   <hr />
 10. [09/03/26, *the*] Ricorsione
     - capitolo del libro: [HTML](https://thinkcompute.github.io/08-recursion.html)
     - slide: [comunicazioni](https://docs.google.com/presentation/d/1L2W3_9SMjBblAOxCZD81HOSlH0eQRNYsVL_DrI7njTw/edit?usp=sharing), [lezione](https://thinkcompute.github.io/08-slides-recursion.html)
@@ -148,12 +146,22 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
     - capitolo del libro per percorsi assoluti e relativi dei file: [HTML](https://thinkcompute.github.io/lab-08.html)
     <hr />
 
-
 #### Parte II (Aprile 2026 - Maggio 2026)
 
-TBC
+Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo reposiory GitHub. La cartella `notebook` contiene tutti i notebook senza soluzioni agli esercizi, mentre in `soluzioni` si trovano gli stessi notebook con tutti gli esercizi svolti in aula. Le soluzioni verranno caricate dopo ciascuna lezione.
+
+1. [08/04/26, *lab*] Introduzione ai Jupyter Notebook
+    - slides: [introduzione.pdf](modulo2/slides/introduzione.pdf)
+    - notebook: [00_HelloWorld.ipynb](/modulo2/notebook/00_HelloWorld.ipynb)
+    - soluzioni: [00_HelloWorld.ipynb](modulo2/soluzioni/00_HelloWorld.ipynb)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68e01bef-8d43-45d3-bbe2-b426009886c3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+
+2. [13/04/26, *lab*] Comprehensions, iterazione in Python
+   - notebook: [01_Comprehensions_Iterazioni.ipynb](modulo2/notebook/01_Comprehensions_Iterazioni.ipynb)
 
 ### Calendario
+
+#### Primo modulo
 
 <table>
   <tr><td>09/02/26</td><td>09:00-11:00</td><td>Introduzione al corso</td></tr>
@@ -173,6 +181,25 @@ TBC
   <tr><td>18/03/26</td><td>11:00-13:00</td><td>Laboratorio: leggere e processare file CSV e JSON</td></tr>
 </table>
 
+#### Secondo Modulo
+
+<table>
+  <tr><td>08/04/26</td><td>11:00-13:00</td><td>Introduzione ai Jupyter Notebook</td></tr>
+  <tr><td>13/04/26</td><td>09:00-11:00</td><td>Comprehensions e iterazione in Python</td></tr>
+  <tr><td>14/04/26</td><td>09:00-11:00</td><td>Operazioni su Stringhe</td></tr>
+  <tr><td>15/04/26</td><td>11:00-13:00</td><td>Esercizi</td></tr>
+  <tr><td>20/04/26</td><td>09:00-11:00</td><td>Espressioni Regolari</td></tr>
+  <tr><td>21/04/26</td><td>09:00-11:00</td><td>Numpy</td></tr>
+  <tr><td>22/04/26</td><td>11:00-13:00</td><td>Esercizi</td></tr>
+  <tr><td>27/04/26</td><td>09:00-11:00</td><td>Pandas</td></tr>
+  <tr><td>28/04/26</td><td>09:00-11:00</td><td>Pandas (seconda parte)</td></tr>
+  <tr><td>29/04/26</td><td>11:00-13:00</td><td>Esercizi</td></tr>
+  <tr><td>04/05/26</td><td>09:00-11:00</td><td>Matplotlib</td></tr>
+  <tr><td>05/05/26</td><td>09:00-11:00</td><td>Visualizzare i dati</td></tr>
+  <tr><td>06/05/26</td><td>11:00-13:00</td><td>Esercizi</td></tr>
+  <tr><td>11/05/26</td><td>09:00-11:00</td><td>Debug</td></tr>
+  <tr><td>12/05/26</td><td>09:00-11:00</td><td>Progetto di esame</td></tr>
+</table>
 
 ## Link
 
