@@ -161,10 +161,14 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - soluzioni: [01_Comprehensions_Iterazioni.ipynb](modulo2/soluzioni/01_Comprehensions_Iterazioni.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=185ade70-a21d-43e1-ba42-b42b0077a098&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
-2. [13/04/26, *lab*] Operazioni su Stringhe
+3. [13/04/26, *lab*] Operazioni su Stringhe
    - notebook: [02_Strings.ipynb](modulo2/notebook/02_Strings.ipynb)
+   - soluzioni: [02_Strings.ipynb](modulo2/soluzioni/02_Strings.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=185ade70-a21d-43e1-ba42-b42b0077a098&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
-   
+4. [13/04/26, *lab*] Operazioni su Stringhe
+   - notebook: [03_Esercizi.ipynb](modulo2/notebook/03_Esercizi.ipynb)
+
 ### Calendario
 
 #### Primo modulo
