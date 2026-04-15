@@ -164,9 +164,9 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
 3. [13/04/26, *lab*] Operazioni su Stringhe
    - notebook: [02_Strings.ipynb](modulo2/notebook/02_Strings.ipynb)
    - soluzioni: [02_Strings.ipynb](modulo2/soluzioni/02_Strings.ipynb)
-   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=185ade70-a21d-43e1-ba42-b42b0077a098&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc9d05c5-652e-4c10-ac24-b42c00779820&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
-4. [13/04/26, *lab*] Operazioni su Stringhe
+4. [13/04/26, *lab*] Esercizi
    - notebook: [03_Esercizi.ipynb](modulo2/notebook/03_Esercizi.ipynb)
 
 ### Calendario
