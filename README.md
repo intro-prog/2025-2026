@@ -176,9 +176,14 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - soluzioni: [04_Regex.ipynb](modulo2/soluzioni/04_Regex.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c3fabf7-a3f2-459d-a3dc-b432007adbbf&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
-   
 6. [21/04/26, *lab*] Numpy
    - notebook: [05_Numpy.ipynb](modulo2/notebook/05_Numpy.ipynb)
+   - soluzioni: [05_Numpy.ipynb](modulo2/soluzioni/05_Numpy.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2a1998a6-7cc3-40ef-85b9-b4330077c185&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+
+7. [22/04/26, *lab*] Input/output, Esercizi
+   - notebook: [06a_InputOutput.ipynb](modulo2/notebook/06a_InputOutput.ipynb)
+   - notebook: [06_Esercizi.ipynb](modulo2/notebook/06_Esercizi.ipynb)
 
 ### Calendario
 
