@@ -183,8 +183,17 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
 
 7. [22/04/26, *lab*] Input/output, Esercizi
    - notebook: [06a_InputOutput.ipynb](modulo2/notebook/06a_InputOutput.ipynb)
+   - soluzioni: [06a_InputOutput.ipynb](modulo2/soluzioni/06a_InputOutput.ipynb)
    - notebook: [06_Esercizi.ipynb](modulo2/notebook/06_Esercizi.ipynb)
+   - soluzioni: [06_Esercizi.ipynb](modulo2/soluzioni/06_Esercizi.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6ebcc2f6-d76d-4afb-93d9-b43400994df3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+   
+8. [27/04/26, *lab*] Pandas, parte 1:
+   - notebook: [07_Pandas.ipynb](modulo2/notebook/07_Pandas.ipynb)
 
+9. [28/04/26, *lab*] Pandas, parte 2:
+   - notebook: [08_Pandas.ipynb](modulo2/notebook/08_Pandas_2.ipynb)
+   
 ### Calendario
 
 #### Primo modulo

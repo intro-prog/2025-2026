@@ -1,0 +1,86 @@
+movie,imdb,year,award_year,directors,companies,male_cast,female_cast
+Wings,tt0018578,1927,1929,"William A. Wellman, Harry d’Abbadie d’Arrast",Paramount Pictures,12,5
+The Broadway Melody,tt0019729,1929,1930,Harry Beaumont,Metro-Goldwyn-Mayer,4,3
+All Quiet on the Western Front,tt0020629,1930,1930,"Lewis Milestone, Nate Watt",Universal Pictures,22,6
+Cimarron,tt0021746,1931,1931,Wesley Ruggles,RKO Pictures,13,6
+Grand Hotel,tt0022958,1932,1932,Edmund Goulding,Metro-Goldwyn-Mayer,19,8
+It Happened One Night,tt0025316,1934,1935,Frank Capra,Columbia Pictures,25,6
+Mutiny on the Bounty,tt0026752,1935,1936,Frank Lloyd,Metro-Goldwyn-Mayer,25,5
+The Great Ziegfeld,tt0027698,1936,1937,Robert Zigler Leonard,Metro-Goldwyn-Mayer,22,17
+The Life of Emile Zola,tt0029146,1937,1938,William Dieterle,Warner Bros.,21,5
+You Can't Take It With You,tt0030993,1938,1939,Frank Capra,Columbia Pictures,29,9
+Gone with the Wind,tt0031381,1939,1940,"George Cukor, Victor Fleming, Sam Wood","Metro-Goldwyn-Mayer, Selznick International Pictures",52,20
+Rebecca,tt0032976,1940,1941,Alfred Hitchcock,Selznick International Pictures,14,4
+How Green Was My Valley,tt0033729,1941,1942,John Ford,20th Century Studios,16,10
+Casablanca,tt0034583,1942,1944,Michael Curtiz,Warner Bros.,40,8
+Mrs. Miniver,tt0035093,1942,1943,William Wyler,Metro-Goldwyn-Mayer,16,3
+Going My Way,tt0036872,1944,1945,Leo McCarey,Paramount Pictures,11,4
+The Lost Weekend,tt0037884,1945,1946,Billy Wilder,Paramount Pictures,7,4
+The Best Years of Our Lives,tt0036868,1946,1947,William Wyler,"RKO Pictures, Samuel Goldwyn Productions",24,9
+Gentleman's Agreement,tt0039416,1947,1948,Elia Kazan,20th Century Studios,16,9
+Hamlet,tt0040416,1948,1949,Laurence Olivier,Two Cities Films,18,2
+All About Eve,tt0042192,1950,1951,Joseph L. Mankiewicz,20th Century Studios,11,7
+All the King's Men,tt0041113,1950,1950,Robert Rossen,Columbia Pictures,11,4
+An American in Paris,tt0043278,1951,1952,Vincente Minnelli,Metro-Goldwyn-Mayer,5,6
+The Greatest Show on Earth,tt0044672,1952,1953,Cecil B. DeMille,Paramount Pictures,21,8
+From Here to Eternity,tt0045793,1953,1954,Fred Zinnemann,Columbia Pictures,21,5
+On the Waterfront,tt0047296,1954,1955,Elia Kazan,Columbia Pictures,13,1
+Marty,tt0048356,1955,1956,"Delbert Mann, Paul Helmick",Hecht Hill Lancaster,9,4
+The Bridge on the River Kwai,tt0050212,1957,1958,David Lean,Horizon Pictures,10,1
+Gigi,tt0051658,1958,1959,"Vincente Minnelli, Charles Walters",Metro-Goldwyn-Mayer,13,9
+Ben-Hur,tt0052618,1959,1960,William Wyler,Metro-Goldwyn-Mayer,25,7
+The Apartment,tt0053604,1960,1961,Billy Wilder,The Mirisch Company,9,6
+West Side Story,tt0055614,1961,1962,"Robert Wise, Jerome Robbins","United Artists Corporation, The Mirisch Company",8,2
+Tom Jones,tt0057590,1963,1964,Tony Richardson,Woodfall Film Productions,11,9
+My Fair Lady,tt0058385,1964,1965,George Cukor,Warner Bros.,18,9
+The Sound of Music,tt0059742,1965,1966,Robert Wise,20th Century Studios,7,14
+A Man for All Seasons,tt0060665,1966,1967,Fred Zinnemann,Columbia Pictures,10,4
+In the Heat of the Night,tt0061811,1967,1968,Norman Jewison,The Mirisch Company,16,3
+Oliver!,tt0063385,1968,1969,Carol Reed,John and James Woolf,10,4
+Midnight Cowboy,tt0064665,1969,1970,John Schlesinger,United Artists Corporation,6,6
+The Godfather,tt0068646,1972,1973,Francis Ford Coppola,"Paramount Pictures, Alfran Productions",32,6
+The Sting,tt0070735,1973,1974,George Roy Hill,Universal Pictures,17,5
+The Godfather Part II,tt0071562,1974,1975,Francis Ford Coppola,Paramount Pictures,33,12
+One Flew Over the Cuckoo's Nest,tt0073486,1975,1976,Miloš Forman,Fantasy Films Productions,18,5
+Rocky,tt0075148,1976,1977,John G. Avildsen,United Artists Corporation,13,1
+The Deer Hunter,tt0077416,1978,1979,Michael Cimino,"Universal Pictures, EMI Films",8,4
+Kramer vs. Kramer,tt0079417,1979,1980,Robert Benton,Columbia Pictures,8,4
+Ordinary People,tt0081283,1980,1981,Robert Redford,Paramount Pictures,9,3
+Chariots of Fire,tt0082158,1981,1982,Hugh Hudson,Allied Stars Ltd,14,2
+Gandhi,tt0083987,1982,1983,Richard Attenborough,"Columbia Pictures, Goldcrest Films, International Film Investors",37,3
+Terms of Endearment,tt0086425,1983,1984,James L. Brooks,Paramount Pictures,7,3
+Amadeus,tt0086879,1984,1985,Miloš Forman,Orion Pictures,5,2
+Out of Africa,tt0089755,1985,1986,Sydney Pollack,Mirage Studios,10,7
+The Last Emperor,tt0093389,1987,1988,Bernardo Bertolucci,Recorded Picture Company,12,4
+Rain Man,tt0095953,1988,1989,Barry Levinson,"United Artists Corporation, Barris Industries",9,4
+Driving Miss Daisy,tt0097239,1989,1990,Bruce Beresford,Warner Bros.,4,4
+Dances with Wolves,tt0099348,1990,1991,Kevin Costner,"Majestic Films International, Tig Productions, Allied Filmmakers",16,2
+The Silence of the Lambs,tt0102926,1991,1992,Jonathan Demme,Orion Pictures,22,7
+Unforgiven,tt0105695,1992,1993,Clint Eastwood,"Warner Bros., Malpaso Productions",18,4
+Schindler's List,tt0108052,1993,1994,"Steven Spielberg, Marek Brodzki",Amblin Entertainment,35,11
+Forrest Gump,tt0109830,1994,1995,Robert Zemeckis,Paramount Pictures,89,29
+Braveheart,tt0112573,1995,1996,Mel Gibson,"The Ladd Company, Icon Productions",21,2
+The English Patient,tt0116209,1996,1997,Anthony Minghella,"Miramax, The Saul Zaentz Company",12,4
+Titanic,tt0120338,1997,1998,James Cameron,"Paramount Pictures, British Film Institute, 20th Century Studios, Lightstorm Entertainment",25,10
+Shakespeare in Love,tt0138097,1998,1999,John Madden,Universal Pictures,17,4
+American Beauty,tt0169547,1999,2000,Sam Mendes,DreamWorks,9,5
+Gladiator,tt0172495,2000,2001,Ridley Scott,"Universal Pictures, DreamWorks, Scott Free Productions, Mill Film, C & L, Dawliz",20,2
+A Beautiful Mind,tt0268978,2001,2002,Ron Howard,"Universal Pictures, DreamWorks, Imagine Entertainment",16,3
+Chicago,tt0299658,2002,2003,Rob Marshall,Miramax,5,8
+The Lord of the Rings: The Return of the King,tt0167260,2003,2004,Peter Jackson,"New Line Cinema, WingNut Films, The Saul Zaentz Company",36,4
+Million Dollar Baby,tt0405159,2004,2005,Clint Eastwood,"Lakeshore Entertainment, Malpaso Productions",10,4
+Crash,tt0375679,2004,2006,Paul Haggis,"Lionsgate, DEJ Productions, Yari Film Group",16,12
+The Departed,tt0407887,2006,2007,Martin Scorsese,"Plan B Entertainment, Warner Bros., GK Films, Media Asia Entertainment Group",16,2
+No Country for Old Men,tt0477348,2007,2008,"Joel Coen, Ethan Coen","Miramax, Paramount Vantage",13,4
+Slumdog Millionaire,tt1010048,2008,2009,"Danny Boyle, Loveleen Tandan","Celador, Film4 Productions",13,4
+The Hurt Locker,tt0887912,2008,2010,Kathryn Bigelow,"Summit Entertainment, Grosvenor Park Productions",9,1
+The King's Speech,tt1504320,2010,2011,Tom Hooper,"UK Film Council, Bedlam Productions, See-Saw Films",11,5
+The Artist,tt1655442,2011,2012,Michel Hazanavicius,"France 3, Wild Bunch",19,11
+Argo,tt1024648,2012,2013,Ben Affleck,"Warner Bros., GK Films, Smokehouse Pictures",35,6
+12 Years a Slave,tt2024544,2013,2014,Steve McQueen,"Plan B Entertainment, Regency Enterprises, Summit Entertainment, Film4 Productions",20,7
+Birdman,tt2562232,2014,2015,Alejandro González Iñárritu,"Searchlight Pictures, Worldview Entertainment",13,11
+Spotlight,tt1895587,2015,2016,Tom McCarthy,"Anonymous Content, Participant",15,2
+Moonlight,tt4975722,2016,2017,Barry Jenkins,"Plan B Entertainment, A24",6,2
+The Shape of Water,tt5580390,2017,2018,Guillermo del Toro,"Searchlight Pictures, TSG Entertainment",8,3
+Green Book,tt6966692,2018,2019,Peter Farrelly,"Universal Pictures, DreamWorks, Participant, Amblin Partners",7,1
+Parasite,tt6751668,2019,2020,Bong Joon-ho,"CJ Entertainment, Barunson E&A",5,5
