@@ -190,6 +190,8 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    
 8. [27/04/26, *lab*] Pandas, parte 1:
    - notebook: [07_Pandas.ipynb](modulo2/notebook/07_Pandas.ipynb)
+   - soluzioni: [07_Pandas.ipynb](modulo2/soluzioni/07_Pandas.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b199e0c4-52e0-490b-87b3-b43900779ed7&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
 9. [28/04/26, *lab*] Pandas, parte 2:
    - notebook: [08_Pandas.ipynb](modulo2/notebook/08_Pandas_2.ipynb)
