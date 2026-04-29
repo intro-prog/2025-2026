@@ -151,10 +151,10 @@ Il libro ufficiale del corso, <cite><a href="https://thinkcompute.github.io/">Th
 Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo reposiory GitHub. La cartella `notebook` contiene tutti i notebook senza soluzioni agli esercizi, mentre in `soluzioni` si trovano gli stessi notebook con tutti gli esercizi svolti in aula. Le soluzioni verranno caricate dopo ciascuna lezione.
 
 1. [08/04/26, *lab*] Introduzione ai Jupyter Notebook
-    - slides: [introduzione.pdf](modulo2/slides/introduzione.pdf)
-    - notebook: [00_HelloWorld.ipynb](/modulo2/notebook/00_HelloWorld.ipynb)
-    - soluzioni: [00_HelloWorld.ipynb](modulo2/soluzioni/00_HelloWorld.ipynb)
-    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68e01bef-8d43-45d3-bbe2-b426009886c3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+   - slides: [introduzione.pdf](modulo2/slides/introduzione.pdf)
+   - notebook: [00_HelloWorld.ipynb](/modulo2/notebook/00_HelloWorld.ipynb)
+   - soluzioni: [00_HelloWorld.ipynb](modulo2/soluzioni/00_HelloWorld.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68e01bef-8d43-45d3-bbe2-b426009886c3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
 2. [13/04/26, *lab*] Comprehensions, iterazione in Python
    - notebook: [01_Comprehensions_Iterazioni.ipynb](modulo2/notebook/01_Comprehensions_Iterazioni.ipynb)
@@ -187,15 +187,19 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - notebook: [06_Esercizi.ipynb](modulo2/notebook/06_Esercizi.ipynb)
    - soluzioni: [06_Esercizi.ipynb](modulo2/soluzioni/06_Esercizi.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6ebcc2f6-d76d-4afb-93d9-b43400994df3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-   
 8. [27/04/26, *lab*] Pandas, parte 1:
    - notebook: [07_Pandas.ipynb](modulo2/notebook/07_Pandas.ipynb)
    - soluzioni: [07_Pandas.ipynb](modulo2/soluzioni/07_Pandas.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b199e0c4-52e0-490b-87b3-b43900779ed7&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
 9. [28/04/26, *lab*] Pandas, parte 2:
-   - notebook: [08_Pandas.ipynb](modulo2/notebook/08_Pandas_2.ipynb)
-   
+   - notebook: [08_Pandas_2.ipynb](modulo2/notebook/08_Pandas_2.ipynb)
+   - notebook: [08_Pandas_2.ipynb](modulo2/soluzioni/08_Pandas_2.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bf3f6822-24e2-4d80-8930-b43a00779de6&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+
+10. [29/04/26, *lab*] Esercizi:
+    - notebook: [09_Esercizi.ipynb](modulo2/notebook/09_Esercizi.ipynb)
+
 ### Calendario
 
 #### Primo modulo
