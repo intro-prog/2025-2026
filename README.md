@@ -194,11 +194,17 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
 
 9. [28/04/26, *lab*] Pandas, parte 2:
    - notebook: [08_Pandas_2.ipynb](modulo2/notebook/08_Pandas_2.ipynb)
-   - notebook: [08_Pandas_2.ipynb](modulo2/soluzioni/08_Pandas_2.ipynb)
+   - soluzioni: [08_Pandas_2.ipynb](modulo2/soluzioni/08_Pandas_2.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bf3f6822-24e2-4d80-8930-b43a00779de6&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
 10. [29/04/26, *lab*] Esercizi:
     - notebook: [09_Esercizi.ipynb](modulo2/notebook/09_Esercizi.ipynb)
+    - soluzioni: [09_Esercizi.ipynb](modulo2/soluzioni/09_Esercizi.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3a314f4c-8b85-44e9-a3dd-b43b00987aa5&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+
+    
+11. [04/05/26, *lab*] Esercizi:
+    - notebook: [10_Matplotlib.ipynb](modulo2/notebook/10_Matplotlib.ipynb)
 
 ### Calendario
 
