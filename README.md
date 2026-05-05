@@ -187,6 +187,7 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - notebook: [06_Esercizi.ipynb](modulo2/notebook/06_Esercizi.ipynb)
    - soluzioni: [06_Esercizi.ipynb](modulo2/soluzioni/06_Esercizi.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6ebcc2f6-d76d-4afb-93d9-b43400994df3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+   
 8. [27/04/26, *lab*] Pandas, parte 1:
    - notebook: [07_Pandas.ipynb](modulo2/notebook/07_Pandas.ipynb)
    - soluzioni: [07_Pandas.ipynb](modulo2/soluzioni/07_Pandas.ipynb)
@@ -198,14 +199,17 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bf3f6822-24e2-4d80-8930-b43a00779de6&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
 10. [29/04/26, *lab*] Esercizi:
-    - notebook: [09_Esercizi.ipynb](modulo2/notebook/09_Esercizi.ipynb)
-    - soluzioni: [09_Esercizi.ipynb](modulo2/soluzioni/09_Esercizi.ipynb)
+   - notebook: [09_Esercizi.ipynb](modulo2/notebook/09_Esercizi.ipynb)
+   - soluzioni: [09_Esercizi.ipynb](modulo2/soluzioni/09_Esercizi.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3a314f4c-8b85-44e9-a3dd-b43b00987aa5&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
     
-11. [04/05/26, *lab*] Esercizi:
-    - notebook: [10_Matplotlib.ipynb](modulo2/notebook/10_Matplotlib.ipynb)
+11. [04/05/26, *lab*] Matplotlib:
+   - notebook: [10_Matplotlib.ipynb](modulo2/notebook/10_Matplotlib.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=929e620f-d8a6-4297-b12f-b440007792b7&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
 
+12. [05/05/26, *lab*] Seaborn:
+   - notebook: [11_Seaborn.ipynb](modulo2/notebook/11_Seaborn.ipynb)
+    
 ### Calendario
 
 #### Primo modulo
