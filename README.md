@@ -209,6 +209,11 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
 
 12. [05/05/26, *lab*] Seaborn:
    - notebook: [11_Seaborn.ipynb](modulo2/notebook/11_Seaborn.ipynb)
+   - soluzioni: [11_Seaborn.ipynb](modulo2/soluzioni/11_Seaborn.ipynb)
+   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a12ea28d-c133-40c6-83c4-b4410077b35a&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+
+13. [06/05/26, *lab*] Esercizi:
+   - notebook: [12_Esercizi.ipynb](modulo2/notebook/12_Esercizi.ipynb)
     
 ### Calendario
 
