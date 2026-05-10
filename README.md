@@ -12,6 +12,7 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
     - [Libro](#libro)
     - [Materiale](#materiale)
     - [Calendario](#calendario)
+    - [Progetto d'esame](#progetto)
   - [Link](#link)
 
 ### Libro e note
@@ -155,17 +156,17 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - notebook: [00_HelloWorld.ipynb](/modulo2/notebook/00_HelloWorld.ipynb)
    - soluzioni: [00_HelloWorld.ipynb](modulo2/soluzioni/00_HelloWorld.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=68e01bef-8d43-45d3-bbe2-b426009886c3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 2. [13/04/26, *lab*] Comprehensions, iterazione in Python
    - notebook: [01_Comprehensions_Iterazioni.ipynb](modulo2/notebook/01_Comprehensions_Iterazioni.ipynb)
    - soluzioni: [01_Comprehensions_Iterazioni.ipynb](modulo2/soluzioni/01_Comprehensions_Iterazioni.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=185ade70-a21d-43e1-ba42-b42b0077a098&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 3. [14/04/26, *lab*] Operazioni su Stringhe
    - notebook: [02_Strings.ipynb](modulo2/notebook/02_Strings.ipynb)
    - soluzioni: [02_Strings.ipynb](modulo2/soluzioni/02_Strings.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bc9d05c5-652e-4c10-ac24-b42c00779820&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 4. [15/04/26, *lab*] Esercizi
    - notebook: [03_Esercizi.ipynb](modulo2/notebook/03_Esercizi.ipynb)
    - soluzioni: [03_Esercizi.ipynb](modulo2/soluzioni/03_Esercizi.ipynb)
@@ -175,45 +176,49 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
    - notebook: [04_Regex.ipynb](modulo2/notebook/04_Regex.ipynb)
    - soluzioni: [04_Regex.ipynb](modulo2/soluzioni/04_Regex.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1c3fabf7-a3f2-459d-a3dc-b432007adbbf&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 6. [21/04/26, *lab*] Numpy
    - notebook: [05_Numpy.ipynb](modulo2/notebook/05_Numpy.ipynb)
    - soluzioni: [05_Numpy.ipynb](modulo2/soluzioni/05_Numpy.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2a1998a6-7cc3-40ef-85b9-b4330077c185&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 7. [22/04/26, *lab*] Input/output, Esercizi
    - notebook: [06a_InputOutput.ipynb](modulo2/notebook/06a_InputOutput.ipynb)
    - soluzioni: [06a_InputOutput.ipynb](modulo2/soluzioni/06a_InputOutput.ipynb)
    - notebook: [06_Esercizi.ipynb](modulo2/notebook/06_Esercizi.ipynb)
    - soluzioni: [06_Esercizi.ipynb](modulo2/soluzioni/06_Esercizi.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6ebcc2f6-d76d-4afb-93d9-b43400994df3&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-   
+    <hr />
 8. [27/04/26, *lab*] Pandas, parte 1:
    - notebook: [07_Pandas.ipynb](modulo2/notebook/07_Pandas.ipynb)
    - soluzioni: [07_Pandas.ipynb](modulo2/soluzioni/07_Pandas.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b199e0c4-52e0-490b-87b3-b43900779ed7&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 9. [28/04/26, *lab*] Pandas, parte 2:
    - notebook: [08_Pandas_2.ipynb](modulo2/notebook/08_Pandas_2.ipynb)
    - soluzioni: [08_Pandas_2.ipynb](modulo2/soluzioni/08_Pandas_2.ipynb)
    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bf3f6822-24e2-4d80-8930-b43a00779de6&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    <hr />
 10. [29/04/26, *lab*] Esercizi:
-   - notebook: [09_Esercizi.ipynb](modulo2/notebook/09_Esercizi.ipynb)
-   - soluzioni: [09_Esercizi.ipynb](modulo2/soluzioni/09_Esercizi.ipynb)
-   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3a314f4c-8b85-44e9-a3dd-b43b00987aa5&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-    
+    - notebook: [09_Esercizi.ipynb](modulo2/notebook/09_Esercizi.ipynb)
+    - soluzioni: [09_Esercizi.ipynb](modulo2/soluzioni/09_Esercizi.ipynb)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3a314f4c-8b85-44e9-a3dd-b43b00987aa5&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+    <hr />
 11. [04/05/26, *lab*] Matplotlib:
-   - notebook: [10_Matplotlib.ipynb](modulo2/notebook/10_Matplotlib.ipynb)
-   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=929e620f-d8a6-4297-b12f-b440007792b7&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    - notebook: [10_Matplotlib.ipynb](modulo2/notebook/10_Matplotlib.ipynb)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=929e620f-d8a6-4297-b12f-b440007792b7&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+    <hr />
 12. [05/05/26, *lab*] Seaborn:
-   - notebook: [11_Seaborn.ipynb](modulo2/notebook/11_Seaborn.ipynb)
-   - soluzioni: [11_Seaborn.ipynb](modulo2/soluzioni/11_Seaborn.ipynb)
-   - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a12ea28d-c133-40c6-83c4-b4410077b35a&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
-
+    - notebook: [11_Seaborn.ipynb](modulo2/notebook/11_Seaborn.ipynb)
+    - soluzioni: [11_Seaborn.ipynb](modulo2/soluzioni/11_Seaborn.ipynb)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a12ea28d-c133-40c6-83c4-b4410077b35a&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+    <hr />
 13. [06/05/26, *lab*] Esercizi:
-   - notebook: [12_Esercizi.ipynb](modulo2/notebook/12_Esercizi.ipynb)
+    - notebook: [12_Esercizi.ipynb](modulo2/notebook/12_Esercizi.ipynb)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c544a68d-1c7b-4362-aa95-b442009aca79&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+    <hr />
+14. [06/05/26, *lab*] Debug:
+    - notebook: [13_Debug.ipynb](modulo2/notebook/13_Debug.ipynb)
     
 ### Calendario
 
@@ -256,6 +261,10 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
   <tr><td>11/05/26</td><td>09:00-11:00</td><td>Debug</td></tr>
   <tr><td>12/05/26</td><td>09:00-11:00</td><td>Progetto di esame</td></tr>
 </table>
+
+## Progetto
+
+Le istruzioni dettagliate per svolgere il progetto di esame si trovano in [questo documento PDF](modulo2/progetto/Istruzioni.pdf). Per svolgere il progetto sui dati di Change-IT e ISTAT è necessario scaricarli attraverso la piattaforma Virtuale a [questo indirizzo](https://virtuale.unibo.it/mod/url/view.php?id=2358901).
 
 ## Link
 
