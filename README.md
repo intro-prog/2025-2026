@@ -219,6 +219,9 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
     <hr />
 14. [06/05/26, *lab*] Debug:
     - notebook: [13_Debug.ipynb](modulo2/notebook/13_Debug.ipynb)
+    - soluzioni: [13_Debug.ipynb](modulo2/soluzioni/13_Debug.ipynb)
+    - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ee496fd-87b8-431b-aac6-b4470078df1f&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+
     
 ### Calendario
 
