@@ -215,14 +215,17 @@ Tutti i materiali delle lezioni si trovano nella cartella `modulo2` di questo re
     <hr />
 13. [06/05/26, *lab*] Esercizi:
     - notebook: [12_Esercizi.ipynb](modulo2/notebook/12_Esercizi.ipynb)
+    - soluzioni: [12_Esercizi.ipynb](modulo2/soluzioni/12_Esercizi.ipynb)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c544a68d-1c7b-4362-aa95-b442009aca79&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
     <hr />
-14. [06/05/26, *lab*] Debug:
+14. [11/05/26, *lab*] Debug:
     - notebook: [13_Debug.ipynb](modulo2/notebook/13_Debug.ipynb)
     - soluzioni: [13_Debug.ipynb](modulo2/soluzioni/13_Debug.ipynb)
     - video: [UNIBO Virtuale](https://unibo.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0ee496fd-87b8-431b-aac6-b4470078df1f&instance=Virtuale) (accessibile con le credenziali UNIBO - previo primo login via browser su [Virtuale](https://virtuale.unibo.it/course/view.php?id=74288))
+    <hr />
+15. [12/05/26, *lab*] Progetto:
+    - slides: [progetto.pdf](modulo2/slides/progetto.pdf)
 
-    
 ### Calendario
 
 #### Primo modulo
